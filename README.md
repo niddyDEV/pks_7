@@ -1,7 +1,11 @@
-# pks_7
+# Практика 7 ПКС
 
-Товмасян Григорий ЭФБО-04-22
+Студент: Трунин Кирилл, ЭФБо-04-22
 
 
-https://github.com/user-attachments/assets/ca0e6934-f58b-4f8b-b44d-e5009e039188
+
+https://github.com/user-attachments/assets/d687da9b-2dca-433b-892a-0960d283481f
+
+
+
 
